@@ -11,7 +11,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "",
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
     "bluebird": "^3.5.0",
